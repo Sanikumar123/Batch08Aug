@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="89693" started-at="2022-10-14T20:21:38 IST" finished-at="2022-10-14T20:23:08 IST">
+    <groups>
+    </groups>
+    <test name="HomePageTest" duration-ms="89693" started-at="2022-10-14T20:21:38 IST" finished-at="2022-10-14T20:23:08 IST">
+      <class name="com.XYZBank.testcase.HomePageTest">
+        <test-method status="PASS" signature="setUpFramework()[pri:0, instance:com.XYZBank.testcase.HomePageTest@3c419631]" name="setUpFramework" is-config="true" duration-ms="74" started-at="2022-10-14T20:21:38 IST" finished-at="2022-10-14T20:21:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpFramework -->
+        <test-method status="PASS" signature="bank()[pri:0, instance:com.XYZBank.testcase.HomePageTest@3c419631]" name="bank" duration-ms="89353" started-at="2022-10-14T20:21:38 IST" finished-at="2022-10-14T20:23:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bank -->
+        <test-method status="PASS" signature="close()[pri:0, instance:com.XYZBank.testcase.HomePageTest@3c419631]" name="close" is-config="true" duration-ms="985" started-at="2022-10-14T20:23:10 IST" finished-at="2022-10-14T20:23:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- com.XYZBank.testcase.HomePageTest -->
+    </test> <!-- HomePageTest -->
+  </suite> <!-- Suite -->
+</testng-results>

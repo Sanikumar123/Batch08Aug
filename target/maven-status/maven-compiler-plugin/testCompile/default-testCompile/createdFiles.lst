@@ -1,0 +1,7 @@
+com\XYZBank\datareader\DataProviders.class
+com\XYZBank\testcase\TestClass.class
+com\XYZBank\testbase\TestBase.class
+com\XYZBank\datareader\DataReader.class
+com\XYZBank\testcase\BankManagerPageTest.class
+com\XYZBank\testcase\CustomerPageTest.class
+com\XYZBank\testcase\HomePageTest.class
